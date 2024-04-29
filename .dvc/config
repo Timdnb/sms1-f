@@ -1,2 +1,4 @@
 [core]
     autostage = true
+['remote "myremote"']
+    url = gdrive://1tWUTZlBOzSRvlC0EUgM5IQ2ebUYraaLN
