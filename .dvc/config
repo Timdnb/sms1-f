@@ -1,0 +1,5 @@
+[core]
+    autostage = true
+    remote = sms1-dvc-local
+['remote "sms1-dvc-local"']
+    url = /home/tim/remotedvc
